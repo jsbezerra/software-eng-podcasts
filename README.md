@@ -11,6 +11,14 @@ A list of software engineering podcasts
 
 [CaSE](https://www.case-podcast.org/): Conversations about Software Engineering
 
+## Soft Skills
+
+[Soft Skills Engineering](https://softskills.audio/): It takes more than great code to be a great engineer.
+
+## Cloud Computing
+
+[The Cloudcast](https://www.thecloudcast.net/)
+
 ## Security
 
-https://securityweekly.com/
+[Security Weekly](https://securityweekly.com/)
