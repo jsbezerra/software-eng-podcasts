@@ -9,6 +9,8 @@ A list of software engineering podcasts
 
 [Software Engineer Radio](https://www.se-radio.net/): The podcast for professional engineers
 
+[CaSE](https://www.case-podcast.org/): Conversations about Software Engineering
+
 ## Security
 
 https://securityweekly.com/
