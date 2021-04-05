@@ -8,3 +8,7 @@ A list of software engineering podcasts
 [CoRecursive](https://corecursive.com/): The Stories Behind The Code
 
 [Software Engineer Radio](https://www.se-radio.net/): The podcast for professional engineers
+
+## Security
+
+https://securityweekly.com/
